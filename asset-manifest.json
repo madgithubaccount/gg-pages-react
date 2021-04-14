@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gg-pages-react/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/gg-pages-react/static/js/main.69a653a5.chunk.js",
-    "main.js.map": "/gg-pages-react/static/js/main.69a653a5.chunk.js.map",
+    "main.js": "/gg-pages-react/static/js/main.cd90993a.chunk.js",
+    "main.js.map": "/gg-pages-react/static/js/main.cd90993a.chunk.js.map",
     "runtime-main.js": "/gg-pages-react/static/js/runtime-main.ab7699f3.js",
     "runtime-main.js.map": "/gg-pages-react/static/js/runtime-main.ab7699f3.js.map",
     "static/js/2.2c5cf2ca.chunk.js": "/gg-pages-react/static/js/2.2c5cf2ca.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ab7699f3.js",
     "static/js/2.2c5cf2ca.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.69a653a5.chunk.js"
+    "static/js/main.cd90993a.chunk.js"
   ]
 }
